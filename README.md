@@ -1,2 +1,2 @@
 # Redirect
-> Simple Redirect in plain html
+Simple Redirect in plain html
